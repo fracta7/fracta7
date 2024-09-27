@@ -48,7 +48,6 @@
 <a href="https://github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="github" width="40" height="40"/></a>
 <a href="https://gitlab.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="gitlab" width="40" height="40"/></a>
 
-
 <!-- SUPPORT -->
 
 <!-- GITHUB STATS -->
@@ -77,9 +76,3 @@
 <br>
 <br>
 <br>
-
----
-
-Credits: [Josue Rojas Vega](https://github.com/JOSUERV99)
-
-Last Edited on: 23/09/2021
